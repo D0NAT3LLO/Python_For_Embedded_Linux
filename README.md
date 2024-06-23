@@ -1,2 +1,2 @@
-# Python_Simple_Tasks
-Simple Python Tasks for training
+# Embedded Linux
+Embedded Linux Diploma's Tasks and Projects 2024
